@@ -16,3 +16,5 @@ HW6. Word embeddings. Word2Vec (CBOW, Skip-Gram), FastText
 HW7. Разрешение лексической многозначности (WSD). Реализация алгоритма Леска
 
 HW8. Рекуррентные нейронные сети: LSTM, GRU, BiLSTM, BiGRU
+
+HW9. BERT. Fine-tuning предобученных моделей для задачи классификации
